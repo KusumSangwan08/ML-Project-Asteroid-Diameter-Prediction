@@ -1,6 +1,6 @@
 # Asteroid-Diameter-Prediction-with-various-ML-algorithms
-In this project, I will try to predict the diameter of asteroid with various ML algorithms such as Linear Regressor, Decision Tree Regressor, Random Forest Regressor and XGboost Regressor. The data is downloaded from (https://www.kaggle.com/datasets/basu369victor/prediction-of-asteroid-diameter).
-File size is too large to be uploaded. Please download the data from Kaggle.
+The objective of this project is to predict the diameter of asteroid with various ML algorithms such as Linear Regressor, Decision Tree Regressor, Random Forest Regressor and XGboost Regressor. The data is downloaded from (https://www.kaggle.com/datasets/basu369victor/prediction-of-asteroid-diameter).
+
 The following steps are taken in this work:
 1. Downloading a real-world dataset from a Kaggle
 2. Understanding the dataset, formulating the problem and describing objective.
